@@ -66,5 +66,4 @@ Allow: /local/*.png
 Allow: /local/*.gif
 
 # Укажите один или несколько файлов Sitemap
-Sitemap: http://site.ru/sitemap.xml
-Sitemap: http://site.ru/sitemap.xml.gz
+Sitemap: https://vzlomvk.ru/sitemap.xml
