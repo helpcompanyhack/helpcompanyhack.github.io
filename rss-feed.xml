@@ -28,11 +28,13 @@
             </metrics>
             <yandex:related></yandex:related>
             <turbo:content>
-                 
-     <h1>Услуги хакера по взлому ВК</h1>
+              <![CDATA[
+              <header>
+                <h1>Услуги хакера по взлому ВК</h1> </header>
+       <body>       
 Оказываем услуги по взлому вконтакте и прочих социальных сетей, почт и мессенджеров. Пишите в телеграм.<br/><br/>
      
-<a href="tg://resolve?domain=good_loki">Написать</a>
+         <a href="tg://resolve?domain=good_loki">Написать</a> </body> ]]>
      </turbo:content>
         </item>
     </channel>
