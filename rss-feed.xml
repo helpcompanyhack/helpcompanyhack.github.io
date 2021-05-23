@@ -10,8 +10,8 @@
         <link>https://www.vzlomvk.ru/</link>
         <description>Оказываем услуги по взлому вконтакте и прочих социальных сетей, почт и мессенджеров.</description>
         <language>ru</language>
-        <turbo:analytics></turbo:analytics>
-        <turbo:adNetwork></turbo:adNetwork>
+        <turbo:analytics type="Yandex"
+                 id="79395883"></turbo:analytics>
         <item turbo="true">
             <!-- Информация о странице -->
             <turbo:extendedHtml>true</turbo:extendedHtml>
