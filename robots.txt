@@ -23,7 +23,6 @@ Disallow: *back_url=        # трекбеки
 Disallow: *back_url_admin=  # трекбеки
 Disallow: *captcha          # каптча
 Disallow: */feed            # все фиды
-Disallow: */rss             # rss фид
 Disallow: *?FILTER*=        # здесь и ниже различные популярные параметры фильтров
 Disallow: *?ei=
 Disallow: *?p=
@@ -64,6 +63,7 @@ Allow: /local/*.jpg
 Allow: /local/*.jpeg
 Allow: /local/*.png
 Allow: /local/*.gif
+Allow: */rss             # rss фид
 
 # Укажите один или несколько файлов Sitemap
 Sitemap: https://vzlomvk.ru/sitemap.xml
